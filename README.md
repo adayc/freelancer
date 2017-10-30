@@ -29,6 +29,6 @@ Freelancer es un tema de Bootstrap de una página para freelancers.
 
 ## About Start Bootstrap
 
-Start Bootstrap es una colección de temas y plantillas de Bootstrap de descarga gratuita. Nuestros temas son de código abierto y puede usarlos para cualquier propósito, ¡incluso comercialmente!
+Start  Bootstrap es una colección de temas y plantillas de Bootstrap de descarga gratuita. Nuestros temas son de código abierto y puede usarlos para cualquier propósito, ¡incluso comercialmente!
 
 
