@@ -19,47 +19,40 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
   }
-  
+
+ /*Declaramos la fuente para toda la página web*/
 body
 {
-font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
-    
+    font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
+ /*Declaramos la etiqueta <nav> para el menú de navegación*/
 nav{
-    
-    width:100%;
-    
-    position:fixed;
-    z-index: 1000;
     background: #2c3e50;
-    text-transform:uppercase;
     font-family:Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
     font-weight:700;
-    text-align:center;
+    letter-spacing:1px; /*Le colocamos espacio entre las letras para que se vea ordenado*/
     padding:55px 0px;
-    letter-spacing:1px;
-    
-    
-    
-    
+    position:fixed;
+    width:100%;
+    text-align:center;
+    text-transform:uppercase;
+    z-index: 1000;/*Le colocamos z-index para que se coloque por encima de los demás elementos*/
 }
 
+/*Vinculos del menú de navegación*/
 nav a{
-    
-    text-decoration: none;
+    text-decoration: none;/*Quitamos el subrayado de los hipervinculos del menú de navegación*/
     color:#fff;
-   
 }
 
+/*Vinculos del menú de navegación*/
 #logo{
     font-size:30px;
-    position: absolute;
     left: 9%;
+    position: absolute;
     top:50%;
     transform: translateY(-50%);
-    
-   
 }
 
 #navigation-menu{
@@ -120,7 +113,7 @@ nav a{
     text-transform:uppercase;
     font-size:80px;
     font-weight:700;
-    letter-spacing:1px;
+    letter-spacing:1px; /*Le colocamos espacio entre las letras para que se vea ordenado*/
     text-align:center;
     
     padding:30px 0px 0px 0px;; 
@@ -356,7 +349,7 @@ footer h3{
     
     
     padding-bottom: 26px;
-    letter-spacing:2px;
+    letter-spacing:2px;/*Le colocamos espacio entre las letras para que se vea ordenado*/
 }
 .item-footer p{
     
