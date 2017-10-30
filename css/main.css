@@ -29,7 +29,7 @@ font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
 nav{
     
     width:100%;
-    outline:solid 1px red;
+    
     position:fixed;
     z-index: 1000;
     background: #2c3e50;
@@ -58,7 +58,7 @@ nav a{
     left: 9%;
     top:50%;
     transform: translateY(-50%);
-    outline:solid 1px red;
+    
    
 }
 
@@ -67,7 +67,7 @@ nav a{
     right: 9%;
     top:50%;
     transform: translateY(-50%);
-    outline:solid 1px green;
+    
        
 }
 
@@ -78,7 +78,7 @@ nav a{
 
  #navigation-menu ul a{
     display: inline-block; 
-    outline:solid 1px purple; 
+    
     padding: 10px;
     color:#fff;
 }
@@ -107,16 +107,12 @@ nav a{
     text-align: center;
     top: 50px;
     width: 100%;
-    outline:solid 1px rgb(89, 4, 92); 
+ 
     
     
     
 }
 
-#top figure{
-    outline:solid 1px rgb(89, 55, 92);
-    
-}
 
 #name{
 
@@ -126,7 +122,7 @@ nav a{
     font-weight:700;
     letter-spacing:1px;
     text-align:center;
-    outline: solid 1px greenyellow;
+    
     padding:30px 0px 0px 0px;; 
      
 }
@@ -134,14 +130,14 @@ nav a{
 #features{
     font-size: 30px;
     padding:15px 0px 0px 0px;
-    outline: solid 1px purple;
+    
 }
 
 /*Clase reutilizable*/
 .star{
     font-size: 30px;
     
-    outline: solid 1px purple;
+    
     opacity: 0.95;
 }
 
@@ -154,7 +150,7 @@ nav a{
     font-size: 60px;
     font-weight:700;
     margin-right: 10px;
-    outline: solid 1px RED;
+    
     opacity: 0.95;
     
 }
@@ -227,7 +223,7 @@ h2,h3{
     position: relative;
     text-align: center;
     width: 100%;
-    outline:solid 1px rgb(89, 4, 92); 
+    
 }
 
 #about-freelance{
@@ -235,13 +231,13 @@ h2,h3{
     font-size:20px;
     text-align:left;
     padding-top:20px;
-    outline: solid 1px red;
+    
     
       
 }
 .paragraph{
     margin-right:40px; 
-    outline: solid 1px purple;
+    
     line-height:25px;
 }
 #button {
@@ -274,10 +270,7 @@ h2,h3{
     overflow:auto;
 }
 
-form{
-    outline: solid 1px red;
-    
-}
+
 .controls{
     text-align:left;
     
@@ -306,7 +299,7 @@ input[type=text]:focus {
 .controls label{
    display: block;
    color:#18bc9c;
-   outline: solid 1px red;
+   
    visibility:hidden;
     
 }
@@ -325,7 +318,7 @@ input[type=text]:focus {
   
   
   
-  outline: solid 1px red;
+  
  margin-top:50px;
   cursor: pointer;
   float: left;
@@ -352,7 +345,7 @@ footer{
 
 .item-footer{
     float: left;
-    outline: solid 1px red;
+    
     text-align:center;
 }
 
@@ -361,13 +354,13 @@ footer{
 footer h3{
     font-size:25px;
     
-    outline: solid 1px yellow;
+    
     padding-bottom: 26px;
     letter-spacing:2px;
 }
 .item-footer p{
     
-    outline: solid 1px green;
+    
     font-size:20px;
     line-height:30px;
     
@@ -375,7 +368,7 @@ footer h3{
 
 .item-footer p a{
     color: #18bc9c;
-    outline: solid 1px purple;
+    
     text-decoration:none;
     
    
@@ -383,7 +376,7 @@ footer h3{
 
 .item-footer p a:hover{
     color: #18bc9c;
-    outline: solid 1px purple;
+    
     text-decoration:underline;
    
 }
