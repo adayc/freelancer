@@ -26,6 +26,7 @@ Freelancer is a one page Bootstrap portfolio theme for freelancers.
 
 
 
-## A tener en cuenta
+## About Start Bootstrap
+Start Bootstrap is a collection of free to download Bootstrap themes and templates. Our themes are open source and you can use them for any purpose, even comercially!
 
 
